@@ -1,0 +1,63 @@
+/* style.css */
+
+.square-button {
+    -fx-background-radius: 50%;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-max-width: 100px;
+    -fx-min-height: 100px;
+    -fx-max-height: 100px;
+    -fx-min-width: 100px;
+}
+.highlighted{
+    -fx-border-width: 5px;
+    -fx-border-color: #ffc000;
+}
+
+.small-square-button {
+    -fx-background-radius: 50%;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-max-width: 25px;
+    -fx-min-height: 25px;
+    -fx-max-height: 25px;
+    -fx-min-width: 25px;
+}
+
+.cachew {
+    -fx-border-color: #F4F4F4;
+    -fx-background-color: #F4F4F4;
+}
+
+.red{
+    -fx-background-color: red;
+}
+.blue{
+    -fx-background-color: blue;
+}
+.green{
+    -fx-background-color: green;
+}
+.yellow{
+    -fx-background-color: yellow;
+}
+.white{
+    -fx-background-color: #F4F4F4;
+}
+
+.cardOutline{
+    -fx-border-color: black;
+    -fx-border-width: 4px;
+    -fx-border-radius: 8;
+}
+.highlightedCard{
+    -fx-border-color: #ffc000;
+}
+.doneCard{
+    -fx-border-color: green;
+}
+.highlightred{
+    -fx-border-color: red;
+}
